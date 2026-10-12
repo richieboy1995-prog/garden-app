@@ -16,7 +16,7 @@ def get_season_advice(season):
 def get_plant_advice(plant_type):
     """Determine advice based on the plant type."""
     if plant_type == "flower":
-        return "Use fertiliser and a lot of water to encourage blooms."
+        return "Protect your plants from extreme cold, snow, and wind."
     elif plant_type == "vegetable":
         return "Keep an eye out for pests and winter weather."
     else:
